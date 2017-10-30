@@ -1,0 +1,515 @@
+XL-I Version 5.8 Cell 1 Channel A Scan Log
+Log & data file folder: C:\xlidata\062717\145618
+Log file name: cell1chA.log
+Log created: 06/27/17 @ 14:56:18
+Scan settings file name: C:\\NONAME99.SCN
+Alignment angle:  0.00
+Points per fringe: 22.75
+Laser delay: 181.90
+Laser duration:  0.50
+Laser gain: 0
+Laser offset: 0
+Blank subtraction: yes
+Blank points/fringe: 22.00
+Blank delay:  41.00
+Blank duration:  0.40
+Blank gain: 0
+Blank offset: 0
+
+Scan(s) started 06/27/17 @ 14:56:18, delay: 00:00:00, interval: 00:03:00
+speed: 50000, time: 0000000, temp: 20.0, w2t: 0.00E+00
+
+Scan sequence 00001 started 06/27/17 @ 14:59:05, file name: 00001.ip1
+speed: 50000, time: 0000156, temp: 19.9, w2t: 1.67E+09
+
+Scan sequence 00002 started 06/27/17 @ 14:59:25, file name: 00002.ip1
+speed: 50000, time: 0000175, temp: 19.9, w2t: 2.24E+09
+
+Scan sequence 00003 started 06/27/17 @ 15:02:23, file name: 00003.ip1
+speed: 50000, time: 0000349, temp: 20.0, w2t: 7.02E+09
+
+Scan sequence 00004 started 06/27/17 @ 15:05:24, file name: 00004.ip1
+speed: 50000, time: 0000532, temp: 20.0, w2t: 1.20E+10
+
+Scan sequence 00005 started 06/27/17 @ 15:08:24, file name: 00005.ip1
+speed: 50000, time: 0000710, temp: 20.1, w2t: 1.70E+10
+
+Scan sequence 00006 started 06/27/17 @ 15:11:25, file name: 00006.ip1
+speed: 50000, time: 0000889, temp: 20.2, w2t: 2.19E+10
+
+Scan sequence 00007 started 06/27/17 @ 15:14:26, file name: 00007.ip1
+speed: 50000, time: 0001068, temp: 20.2, w2t: 2.69E+10
+
+Scan sequence 00008 started 06/27/17 @ 15:17:25, file name: 00008.ip1
+speed: 50000, time: 0001245, temp: 20.2, w2t: 3.18E+10
+
+Scan sequence 00009 started 06/27/17 @ 15:20:26, file name: 00009.ip1
+speed: 50000, time: 0001423, temp: 20.2, w2t: 3.67E+10
+
+Scan sequence 00010 started 06/27/17 @ 15:23:27, file name: 00010.ip1
+speed: 50000, time: 0001607, temp: 20.2, w2t: 4.17E+10
+
+Scan sequence 00011 started 06/27/17 @ 15:26:28, file name: 00011.ip1
+speed: 50000, time: 0001784, temp: 20.2, w2t: 4.67E+10
+
+Scan sequence 00012 started 06/27/17 @ 15:29:28, file name: 00012.ip1
+speed: 50000, time: 0001963, temp: 20.2, w2t: 5.16E+10
+
+Scan sequence 00013 started 06/27/17 @ 15:32:28, file name: 00013.ip1
+speed: 50000, time: 0002142, temp: 20.2, w2t: 5.65E+10
+
+Scan sequence 00014 started 06/27/17 @ 15:35:28, file name: 00014.ip1
+speed: 50000, time: 0002319, temp: 20.2, w2t: 6.15E+10
+
+Scan sequence 00015 started 06/27/17 @ 15:38:29, file name: 00015.ip1
+speed: 50000, time: 0002498, temp: 20.1, w2t: 6.64E+10
+
+Scan sequence 00016 started 06/27/17 @ 15:41:30, file name: 00016.ip1
+speed: 50000, time: 0002680, temp: 20.1, w2t: 7.14E+10
+
+Scan sequence 00017 started 06/27/17 @ 15:44:30, file name: 00017.ip1
+speed: 50000, time: 0002858, temp: 20.1, w2t: 7.64E+10
+
+Scan sequence 00018 started 06/27/17 @ 15:47:31, file name: 00018.ip1
+speed: 50000, time: 0003037, temp: 20.1, w2t: 8.13E+10
+
+Scan sequence 00019 started 06/27/17 @ 15:50:32, file name: 00019.ip1
+speed: 50000, time: 0003216, temp: 20.1, w2t: 8.62E+10
+
+Scan sequence 00020 started 06/27/17 @ 15:53:31, file name: 00020.ip1
+speed: 50000, time: 0003393, temp: 20.1, w2t: 9.12E+10
+
+Scan sequence 00021 started 06/27/17 @ 15:56:32, file name: 00021.ip1
+speed: 50000, time: 0003571, temp: 20.1, w2t: 9.61E+10
+
+Scan sequence 00022 started 06/27/17 @ 15:59:33, file name: 00022.ip1
+speed: 50000, time: 0003754, temp: 20.1, w2t: 1.01E+11
+
+Scan sequence 00023 started 06/27/17 @ 16:02:33, file name: 00023.ip1
+speed: 50000, time: 0003932, temp: 20.0, w2t: 1.06E+11
+
+Scan sequence 00024 started 06/27/17 @ 16:05:34, file name: 00024.ip1
+speed: 50000, time: 0004111, temp: 20.1, w2t: 1.11E+11
+
+Scan sequence 00025 started 06/27/17 @ 16:08:34, file name: 00025.ip1
+speed: 50000, time: 0004290, temp: 20.0, w2t: 1.16E+11
+
+Scan sequence 00026 started 06/27/17 @ 16:11:34, file name: 00026.ip1
+speed: 50000, time: 0004467, temp: 20.0, w2t: 1.21E+11
+
+Scan sequence 00027 started 06/27/17 @ 16:14:35, file name: 00027.ip1
+speed: 50000, time: 0004645, temp: 20.0, w2t: 1.26E+11
+
+Scan sequence 00028 started 06/27/17 @ 16:17:36, file name: 00028.ip1
+speed: 50000, time: 0004827, temp: 20.0, w2t: 1.31E+11
+
+Scan sequence 00029 started 06/27/17 @ 16:20:36, file name: 00029.ip1
+speed: 50000, time: 0005006, temp: 20.0, w2t: 1.36E+11
+
+Scan sequence 00030 started 06/27/17 @ 16:23:37, file name: 00030.ip1
+speed: 50000, time: 0005185, temp: 20.0, w2t: 1.41E+11
+
+Scan sequence 00031 started 06/27/17 @ 16:26:37, file name: 00031.ip1
+speed: 50000, time: 0005364, temp: 20.0, w2t: 1.46E+11
+
+Scan sequence 00032 started 06/27/17 @ 16:29:37, file name: 00032.ip1
+speed: 50000, time: 0005541, temp: 20.0, w2t: 1.51E+11
+
+Scan sequence 00033 started 06/27/17 @ 16:32:38, file name: 00033.ip1
+speed: 50000, time: 0005720, temp: 20.0, w2t: 1.55E+11
+
+Scan sequence 00034 started 06/27/17 @ 16:35:39, file name: 00034.ip1
+speed: 50000, time: 0005903, temp: 20.0, w2t: 1.60E+11
+
+Scan sequence 00035 started 06/27/17 @ 16:38:39, file name: 00035.ip1
+speed: 50000, time: 0006080, temp: 20.0, w2t: 1.65E+11
+
+Scan sequence 00036 started 06/27/17 @ 16:41:40, file name: 00036.ip1
+speed: 50000, time: 0006259, temp: 20.0, w2t: 1.70E+11
+
+Scan sequence 00037 started 06/27/17 @ 16:44:41, file name: 00037.ip1
+speed: 50000, time: 0006438, temp: 20.0, w2t: 1.75E+11
+
+Scan sequence 00038 started 06/27/17 @ 16:47:40, file name: 00038.ip1
+speed: 50000, time: 0006615, temp: 20.0, w2t: 1.80E+11
+
+Scan sequence 00039 started 06/27/17 @ 16:50:41, file name: 00039.ip1
+speed: 50000, time: 0006794, temp: 20.0, w2t: 1.85E+11
+
+Scan sequence 00040 started 06/27/17 @ 16:53:42, file name: 00040.ip1
+speed: 50000, time: 0006977, temp: 20.0, w2t: 1.90E+11
+
+Scan sequence 00041 started 06/27/17 @ 16:56:42, file name: 00041.ip1
+speed: 50000, time: 0007152, temp: 20.0, w2t: 1.95E+11
+
+Scan sequence 00042 started 06/27/17 @ 16:59:43, file name: 00042.ip1
+speed: 50000, time: 0007334, temp: 20.0, w2t: 2.00E+11
+
+Scan sequence 00043 started 06/27/17 @ 17:02:43, file name: 00043.ip1
+speed: 50000, time: 0007512, temp: 20.0, w2t: 2.05E+11
+
+Scan sequence 00044 started 06/27/17 @ 17:05:43, file name: 00044.ip1
+speed: 50000, time: 0007691, temp: 20.0, w2t: 2.10E+11
+
+Scan sequence 00045 started 06/27/17 @ 17:08:44, file name: 00045.ip1
+speed: 50000, time: 0007870, temp: 20.0, w2t: 2.15E+11
+
+Scan sequence 00046 started 06/27/17 @ 17:11:44, file name: 00046.ip1
+speed: 50000, time: 0008048, temp: 20.0, w2t: 2.20E+11
+
+Scan sequence 00047 started 06/27/17 @ 17:14:44, file name: 00047.ip1
+speed: 50000, time: 0008226, temp: 20.0, w2t: 2.25E+11
+
+Scan sequence 00048 started 06/27/17 @ 17:17:45, file name: 00048.ip1
+speed: 50000, time: 0008409, temp: 20.0, w2t: 2.30E+11
+
+Scan sequence 00049 started 06/27/17 @ 17:20:46, file name: 00049.ip1
+speed: 50000, time: 0008587, temp: 20.0, w2t: 2.35E+11
+
+Scan sequence 00050 started 06/27/17 @ 17:23:46, file name: 00050.ip1
+speed: 50000, time: 0008766, temp: 20.0, w2t: 2.40E+11
+
+Scan sequence 00051 started 06/27/17 @ 17:26:47, file name: 00051.ip1
+speed: 50000, time: 0008945, temp: 20.0, w2t: 2.45E+11
+
+Scan sequence 00052 started 06/27/17 @ 17:29:47, file name: 00052.ip1
+speed: 50000, time: 0009122, temp: 20.0, w2t: 2.49E+11
+
+Scan sequence 00053 started 06/27/17 @ 17:32:47, file name: 00053.ip1
+speed: 50000, time: 0009300, temp: 20.0, w2t: 2.54E+11
+
+Scan sequence 00054 started 06/27/17 @ 17:35:48, file name: 00054.ip1
+speed: 50000, time: 0009483, temp: 20.0, w2t: 2.59E+11
+
+Scan sequence 00055 started 06/27/17 @ 17:38:49, file name: 00055.ip1
+speed: 50000, time: 0009662, temp: 20.0, w2t: 2.64E+11
+
+Scan sequence 00056 started 06/27/17 @ 17:41:49, file name: 00056.ip1
+speed: 50000, time: 0009840, temp: 20.0, w2t: 2.69E+11
+
+Scan sequence 00057 started 06/27/17 @ 17:44:50, file name: 00057.ip1
+speed: 50000, time: 0010019, temp: 20.0, w2t: 2.74E+11
+
+Scan sequence 00058 started 06/27/17 @ 17:47:50, file name: 00058.ip1
+speed: 50000, time: 0010196, temp: 20.0, w2t: 2.79E+11
+
+Scan sequence 00059 started 06/27/17 @ 17:50:50, file name: 00059.ip1
+speed: 50000, time: 0010374, temp: 20.0, w2t: 2.84E+11
+
+Scan sequence 00060 started 06/27/17 @ 17:53:51, file name: 00060.ip1
+speed: 50000, time: 0010557, temp: 20.0, w2t: 2.89E+11
+
+Scan sequence 00061 started 06/27/17 @ 17:56:52, file name: 00061.ip1
+speed: 50000, time: 0010735, temp: 20.0, w2t: 2.94E+11
+
+Scan sequence 00062 started 06/27/17 @ 17:59:52, file name: 00062.ip1
+speed: 50000, time: 0010914, temp: 20.0, w2t: 2.99E+11
+
+Scan sequence 00063 started 06/27/17 @ 18:02:53, file name: 00063.ip1
+speed: 50000, time: 0011093, temp: 20.0, w2t: 3.04E+11
+
+Scan sequence 00064 started 06/27/17 @ 18:05:53, file name: 00064.ip1
+speed: 50000, time: 0011270, temp: 20.0, w2t: 3.09E+11
+
+Scan sequence 00065 started 06/27/17 @ 18:08:53, file name: 00065.ip1
+speed: 50000, time: 0011448, temp: 20.0, w2t: 3.14E+11
+
+Scan sequence 00066 started 06/27/17 @ 18:11:54, file name: 00066.ip1
+speed: 50000, time: 0011631, temp: 20.0, w2t: 3.19E+11
+
+Scan sequence 00067 started 06/27/17 @ 18:14:55, file name: 00067.ip1
+speed: 50000, time: 0011809, temp: 20.0, w2t: 3.24E+11
+
+Scan sequence 00068 started 06/27/17 @ 18:17:55, file name: 00068.ip1
+speed: 50000, time: 0011988, temp: 20.0, w2t: 3.29E+11
+
+Scan sequence 00069 started 06/27/17 @ 18:20:56, file name: 00069.ip1
+speed: 50000, time: 0012167, temp: 20.0, w2t: 3.34E+11
+
+Scan sequence 00070 started 06/27/17 @ 18:23:56, file name: 00070.ip1
+speed: 50000, time: 0012344, temp: 20.0, w2t: 3.39E+11
+
+Scan sequence 00071 started 06/27/17 @ 18:26:56, file name: 00071.ip1
+speed: 50000, time: 0012522, temp: 20.0, w2t: 3.44E+11
+
+Scan sequence 00072 started 06/27/17 @ 18:29:58, file name: 00072.ip1
+speed: 50000, time: 0012706, temp: 20.0, w2t: 3.49E+11
+
+Scan sequence 00073 started 06/27/17 @ 18:32:58, file name: 00073.ip1
+speed: 50000, time: 0012883, temp: 20.0, w2t: 3.53E+11
+
+Scan sequence 00074 started 06/27/17 @ 18:35:58, file name: 00074.ip1
+speed: 50000, time: 0013062, temp: 20.0, w2t: 3.58E+11
+
+Scan sequence 00075 started 06/27/17 @ 18:38:59, file name: 00075.ip1
+speed: 50000, time: 0013241, temp: 20.0, w2t: 3.63E+11
+
+Scan sequence 00076 started 06/27/17 @ 18:41:59, file name: 00076.ip1
+speed: 50000, time: 0013418, temp: 20.0, w2t: 3.68E+11
+
+Scan sequence 00077 started 06/27/17 @ 18:44:59, file name: 00077.ip1
+speed: 50000, time: 0013597, temp: 20.0, w2t: 3.73E+11
+
+Scan sequence 00078 started 06/27/17 @ 18:48:00, file name: 00078.ip1
+speed: 50000, time: 0013780, temp: 20.0, w2t: 3.78E+11
+
+Scan sequence 00079 started 06/27/17 @ 18:51:01, file name: 00079.ip1
+speed: 50000, time: 0013957, temp: 20.0, w2t: 3.83E+11
+
+Scan sequence 00080 started 06/27/17 @ 18:54:01, file name: 00080.ip1
+speed: 50000, time: 0014136, temp: 20.0, w2t: 3.88E+11
+
+Scan sequence 00081 started 06/27/17 @ 18:57:02, file name: 00081.ip1
+speed: 50000, time: 0014315, temp: 20.0, w2t: 3.93E+11
+
+Scan sequence 00082 started 06/27/17 @ 19:00:02, file name: 00082.ip1
+speed: 50000, time: 0014492, temp: 20.0, w2t: 3.98E+11
+
+Scan sequence 00083 started 06/27/17 @ 19:03:03, file name: 00083.ip1
+speed: 50000, time: 0014671, temp: 20.0, w2t: 4.03E+11
+
+Scan sequence 00084 started 06/27/17 @ 19:06:04, file name: 00084.ip1
+speed: 50000, time: 0014853, temp: 20.0, w2t: 4.08E+11
+
+Scan sequence 00085 started 06/27/17 @ 19:09:04, file name: 00085.ip1
+speed: 50000, time: 0015032, temp: 20.0, w2t: 4.13E+11
+
+Scan sequence 00086 started 06/27/17 @ 19:12:05, file name: 00086.ip1
+speed: 50000, time: 0015210, temp: 20.0, w2t: 4.18E+11
+
+Scan sequence 00087 started 06/27/17 @ 19:15:05, file name: 00087.ip1
+speed: 50000, time: 0015389, temp: 20.0, w2t: 4.23E+11
+
+Scan sequence 00088 started 06/27/17 @ 19:18:05, file name: 00088.ip1
+speed: 50000, time: 0015566, temp: 20.0, w2t: 4.28E+11
+
+Scan sequence 00089 started 06/27/17 @ 19:21:05, file name: 00089.ip1
+speed: 50000, time: 0015745, temp: 20.0, w2t: 4.33E+11
+
+Scan sequence 00090 started 06/27/17 @ 19:24:07, file name: 00090.ip1
+speed: 50000, time: 0015928, temp: 20.0, w2t: 4.38E+11
+
+Scan sequence 00091 started 06/27/17 @ 19:27:07, file name: 00091.ip1
+speed: 50000, time: 0016106, temp: 20.0, w2t: 4.43E+11
+
+Scan sequence 00092 started 06/27/17 @ 19:30:07, file name: 00092.ip1
+speed: 50000, time: 0016285, temp: 20.0, w2t: 4.48E+11
+
+Scan sequence 00093 started 06/27/17 @ 19:33:08, file name: 00093.ip1
+speed: 50000, time: 0016464, temp: 20.0, w2t: 4.52E+11
+
+Scan sequence 00094 started 06/27/17 @ 19:36:08, file name: 00094.ip1
+speed: 50000, time: 0016641, temp: 20.0, w2t: 4.57E+11
+
+Scan sequence 00095 started 06/27/17 @ 19:39:09, file name: 00095.ip1
+speed: 50000, time: 0016819, temp: 20.0, w2t: 4.62E+11
+
+Scan sequence 00096 started 06/27/17 @ 19:42:09, file name: 00096.ip1
+speed: 50000, time: 0017002, temp: 20.0, w2t: 4.67E+11
+
+Scan sequence 00097 started 06/27/17 @ 19:45:10, file name: 00097.ip1
+speed: 50000, time: 0017180, temp: 20.0, w2t: 4.72E+11
+
+Scan sequence 00098 started 06/27/17 @ 19:48:10, file name: 00098.ip1
+speed: 50000, time: 0017359, temp: 20.0, w2t: 4.77E+11
+
+Scan sequence 00099 started 06/27/17 @ 19:51:11, file name: 00099.ip1
+speed: 50000, time: 0017538, temp: 20.0, w2t: 4.82E+11
+
+Scan sequence 00100 started 06/27/17 @ 19:54:11, file name: 00100.ip1
+speed: 50000, time: 0017715, temp: 20.0, w2t: 4.87E+11
+
+Scan sequence 00101 started 06/27/17 @ 19:57:11, file name: 00101.ip1
+speed: 50000, time: 0017894, temp: 20.0, w2t: 4.92E+11
+
+Scan sequence 00102 started 06/27/17 @ 20:00:12, file name: 00102.ip1
+speed: 50000, time: 0018077, temp: 20.0, w2t: 4.97E+11
+
+Scan sequence 00103 started 06/27/17 @ 20:03:13, file name: 00103.ip1
+speed: 50000, time: 0018254, temp: 20.0, w2t: 5.02E+11
+
+Scan sequence 00104 started 06/27/17 @ 20:06:13, file name: 00104.ip1
+speed: 50000, time: 0018433, temp: 20.0, w2t: 5.07E+11
+
+Scan sequence 00105 started 06/27/17 @ 20:09:14, file name: 00105.ip1
+speed: 50000, time: 0018612, temp: 20.0, w2t: 5.12E+11
+
+Scan sequence 00106 started 06/27/17 @ 20:12:14, file name: 00106.ip1
+speed: 50000, time: 0018789, temp: 20.0, w2t: 5.17E+11
+
+Scan sequence 00107 started 06/27/17 @ 20:15:15, file name: 00107.ip1
+speed: 50000, time: 0018968, temp: 20.0, w2t: 5.22E+11
+
+Scan sequence 00108 started 06/27/17 @ 20:18:15, file name: 00108.ip1
+speed: 50000, time: 0019151, temp: 20.0, w2t: 5.27E+11
+
+Scan sequence 00109 started 06/27/17 @ 20:21:16, file name: 00109.ip1
+speed: 50000, time: 0019329, temp: 20.0, w2t: 5.32E+11
+
+Scan sequence 00110 started 06/27/17 @ 20:24:17, file name: 00110.ip1
+speed: 50000, time: 0019508, temp: 20.0, w2t: 5.37E+11
+
+Scan sequence 00111 started 06/27/17 @ 20:27:17, file name: 00111.ip1
+speed: 50000, time: 0019687, temp: 20.0, w2t: 5.42E+11
+
+Scan sequence 00112 started 06/27/17 @ 20:30:17, file name: 00112.ip1
+speed: 50000, time: 0019864, temp: 20.0, w2t: 5.46E+11
+
+Scan sequence 00113 started 06/27/17 @ 20:33:17, file name: 00113.ip1
+speed: 50000, time: 0020042, temp: 20.0, w2t: 5.51E+11
+
+Scan sequence 00114 started 06/27/17 @ 20:36:18, file name: 00114.ip1
+speed: 50000, time: 0020225, temp: 20.0, w2t: 5.56E+11
+
+Scan sequence 00115 started 06/27/17 @ 20:39:19, file name: 00115.ip1
+speed: 50000, time: 0020403, temp: 20.0, w2t: 5.61E+11
+
+Scan sequence 00116 started 06/27/17 @ 20:42:20, file name: 00116.ip1
+speed: 50000, time: 0020582, temp: 20.0, w2t: 5.66E+11
+
+Scan sequence 00117 started 06/27/17 @ 20:45:20, file name: 00117.ip1
+speed: 50000, time: 0020761, temp: 20.0, w2t: 5.71E+11
+
+Scan sequence 00118 started 06/27/17 @ 20:48:20, file name: 00118.ip1
+speed: 50000, time: 0020938, temp: 20.0, w2t: 5.76E+11
+
+Scan sequence 00119 started 06/27/17 @ 20:51:20, file name: 00119.ip1
+speed: 50000, time: 0021116, temp: 20.0, w2t: 5.81E+11
+
+Scan sequence 00120 started 06/27/17 @ 20:54:21, file name: 00120.ip1
+speed: 50000, time: 0021299, temp: 20.0, w2t: 5.86E+11
+
+Scan sequence 00121 started 06/27/17 @ 20:57:22, file name: 00121.ip1
+speed: 50000, time: 0021477, temp: 20.0, w2t: 5.91E+11
+
+Scan sequence 00122 started 06/27/17 @ 21:00:22, file name: 00122.ip1
+speed: 50000, time: 0021656, temp: 20.0, w2t: 5.96E+11
+
+Scan sequence 00123 started 06/27/17 @ 21:03:23, file name: 00123.ip1
+speed: 50000, time: 0021835, temp: 20.0, w2t: 6.01E+11
+
+Scan sequence 00124 started 06/27/17 @ 21:06:23, file name: 00124.ip1
+speed: 50000, time: 0022012, temp: 20.0, w2t: 6.06E+11
+
+Scan sequence 00125 started 06/27/17 @ 21:09:23, file name: 00125.ip1
+speed: 50000, time: 0022191, temp: 20.0, w2t: 6.11E+11
+
+Scan sequence 00126 started 06/27/17 @ 21:12:24, file name: 00126.ip1
+speed: 50000, time: 0022374, temp: 20.0, w2t: 6.16E+11
+
+Scan sequence 00127 started 06/27/17 @ 21:15:25, file name: 00127.ip1
+speed: 50000, time: 0022551, temp: 20.0, w2t: 6.21E+11
+
+Scan sequence 00128 started 06/27/17 @ 21:18:25, file name: 00128.ip1
+speed: 50000, time: 0022730, temp: 20.0, w2t: 6.26E+11
+
+Scan sequence 00129 started 06/27/17 @ 21:21:26, file name: 00129.ip1
+speed: 50000, time: 0022910, temp: 20.0, w2t: 6.31E+11
+
+Scan sequence 00130 started 06/27/17 @ 21:24:27, file name: 00130.ip1
+speed: 50000, time: 0023087, temp: 20.0, w2t: 6.35E+11
+
+Scan sequence 00131 started 06/27/17 @ 21:27:26, file name: 00131.ip1
+speed: 50000, time: 0023265, temp: 20.0, w2t: 6.40E+11
+
+Scan sequence 00132 started 06/27/17 @ 21:30:27, file name: 00132.ip1
+speed: 50000, time: 0023448, temp: 20.0, w2t: 6.45E+11
+
+Scan sequence 00133 started 06/27/17 @ 21:33:28, file name: 00133.ip1
+speed: 50000, time: 0023626, temp: 20.0, w2t: 6.50E+11
+
+Scan sequence 00134 started 06/27/17 @ 21:36:29, file name: 00134.ip1
+speed: 50000, time: 0023805, temp: 20.0, w2t: 6.55E+11
+
+Scan sequence 00135 started 06/27/17 @ 21:39:29, file name: 00135.ip1
+speed: 50000, time: 0023983, temp: 20.0, w2t: 6.60E+11
+
+Scan sequence 00136 started 06/27/17 @ 21:42:29, file name: 00136.ip1
+speed: 50000, time: 0024161, temp: 20.0, w2t: 6.65E+11
+
+Scan sequence 00137 started 06/27/17 @ 21:45:29, file name: 00137.ip1
+speed: 50000, time: 0024339, temp: 20.0, w2t: 6.70E+11
+
+Scan sequence 00138 started 06/27/17 @ 21:48:30, file name: 00138.ip1
+speed: 50000, time: 0024522, temp: 20.0, w2t: 6.75E+11
+
+Scan sequence 00139 started 06/27/17 @ 21:51:31, file name: 00139.ip1
+speed: 50000, time: 0024700, temp: 20.0, w2t: 6.80E+11
+
+Scan sequence 00140 started 06/27/17 @ 21:54:31, file name: 00140.ip1
+speed: 50000, time: 0024879, temp: 20.0, w2t: 6.85E+11
+
+Scan sequence 00141 started 06/27/17 @ 21:57:32, file name: 00141.ip1
+speed: 50000, time: 0025058, temp: 20.0, w2t: 6.90E+11
+
+Scan sequence 00142 started 06/27/17 @ 22:00:32, file name: 00142.ip1
+speed: 50000, time: 0025235, temp: 20.0, w2t: 6.95E+11
+
+Scan sequence 00143 started 06/27/17 @ 22:03:32, file name: 00143.ip1
+speed: 50000, time: 0025414, temp: 20.0, w2t: 7.00E+11
+
+Scan sequence 00144 started 06/27/17 @ 22:06:33, file name: 00144.ip1
+speed: 50000, time: 0025597, temp: 20.0, w2t: 7.05E+11
+
+Scan sequence 00145 started 06/27/17 @ 22:09:34, file name: 00145.ip1
+speed: 50000, time: 0025774, temp: 20.0, w2t: 7.10E+11
+
+Scan sequence 00146 started 06/27/17 @ 22:12:34, file name: 00146.ip1
+speed: 50000, time: 0025953, temp: 20.0, w2t: 7.15E+11
+
+Scan sequence 00147 started 06/27/17 @ 22:15:35, file name: 00147.ip1
+speed: 50000, time: 0026132, temp: 20.0, w2t: 7.20E+11
+
+Scan sequence 00148 started 06/27/17 @ 22:18:35, file name: 00148.ip1
+speed: 50000, time: 0026309, temp: 20.0, w2t: 7.24E+11
+
+Scan sequence 00149 started 06/27/17 @ 22:21:35, file name: 00149.ip1
+speed: 50000, time: 0026488, temp: 20.0, w2t: 7.29E+11
+
+Scan sequence 00150 started 06/27/17 @ 22:24:36, file name: 00150.ip1
+speed: 50000, time: 0026671, temp: 20.0, w2t: 7.34E+11
+
+Scan sequence 00151 started 06/27/17 @ 22:27:37, file name: 00151.ip1
+speed: 50000, time: 0026848, temp: 20.0, w2t: 7.39E+11
+
+Scan sequence 00152 started 06/27/17 @ 22:30:38, file name: 00152.ip1
+speed: 50000, time: 0027028, temp: 20.0, w2t: 7.44E+11
+
+Scan sequence 00153 started 06/27/17 @ 22:33:38, file name: 00153.ip1
+speed: 50000, time: 0027206, temp: 20.0, w2t: 7.49E+11
+
+Scan sequence 00154 started 06/27/17 @ 22:36:38, file name: 00154.ip1
+speed: 50000, time: 0027383, temp: 20.0, w2t: 7.54E+11
+
+Scan sequence 00155 started 06/27/17 @ 22:39:38, file name: 00155.ip1
+speed: 50000, time: 0027562, temp: 20.0, w2t: 7.59E+11
+
+Scan sequence 00156 started 06/27/17 @ 22:42:39, file name: 00156.ip1
+speed: 50000, time: 0027745, temp: 20.0, w2t: 7.64E+11
+
+Scan sequence 00157 started 06/27/17 @ 22:45:40, file name: 00157.ip1
+speed: 50000, time: 0027922, temp: 20.0, w2t: 7.69E+11
+
+Scan sequence 00158 started 06/27/17 @ 22:48:40, file name: 00158.ip1
+speed: 50000, time: 0028101, temp: 20.0, w2t: 7.74E+11
+
+Scan sequence 00159 started 06/27/17 @ 22:51:41, file name: 00159.ip1
+speed: 50000, time: 0028280, temp: 20.0, w2t: 7.79E+11
+
+Scan sequence 00160 started 06/27/17 @ 22:54:41, file name: 00160.ip1
+speed: 50000, time: 0028458, temp: 20.0, w2t: 7.84E+11
+
+Scan sequence 00161 started 06/27/17 @ 22:57:42, file name: 00161.ip1
+speed: 50000, time: 0028636, temp: 20.0, w2t: 7.89E+11
+
+Scan sequence 00162 started 06/27/17 @ 23:00:42, file name: 00162.ip1
+speed: 50000, time: 0028819, temp: 20.0, w2t: 7.94E+11
+
+Scan sequence 00163 started 06/27/17 @ 23:03:43, file name: 00163.ip1
+speed: 50000, time: 0028997, temp: 20.0, w2t: 7.99E+11
+
+Scan sequence 00164 started 06/27/17 @ 23:06:43, file name: 00164.ip1
+speed: 50000, time: 0029176, temp: 20.0, w2t: 8.04E+11
+
+Scan sequence 00165 started 06/27/17 @ 23:09:44, file name: 00165.ip1
+speed: 50000, time: 0029355, temp: 20.0, w2t: 8.09E+11

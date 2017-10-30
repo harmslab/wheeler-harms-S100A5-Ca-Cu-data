@@ -1,0 +1,1 @@
+These are the data exported from NITPIC after performing integration with corrected concentrations. These data correspond to the pytc fits shown in Fig. 2. Jupyter notebooks used to perform the Bayesian fits are included. 

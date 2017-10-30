@@ -1,0 +1,50 @@
+NITPIC Version 1.2.2
+NITPICing commenced on 14 September, 2017, at 1619
+
+
+Loading C:/VPITC/Data/Luke/170907_ITC200/hA5CaTESverylowTitrant/hA5C43SC79SCaTESverylowtitrant.itc...
+
+
+Data come from ITC200 or VP-ITC
+File loaded and successfully plotted.
+
+
+Titration was truncated.
+Scheduled: 22
+Actual completed: 20
+
+STARTING RUN #1.
+Vertical length of the array input to the 1st SVD is 179
+
+Number of flanking points adjusted to 2.
+
+Initial number of points considered in each injection is 40
+Fine-adjusting...
+Test fractions were [ 0.1   0.15  0.2   0.25  0.3 ]
+
+
+Winning fraction was: 30.0 percent
+
+Vertical length of winning array: 54
+
+Checking whether tail is inadvertantly included...
+Number of substoichiometric points set to 18
+
+No tail detected.
+No adjustment to no. considered points made.
+The best PQuadLevel was 2.
+The best transition constant was 1.0.
+The best anchor box sizes were: [43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0, 43.0]
+Using Lin/Quad for SVD baseline calculations.
+The best number of SVD components to include based on RMSD is 4.
+
+Isotherm is too noisy to determine its type using NITPIC's algorithm.
+Final normalized wrmsd was: 0.027 kcal/mol
+
+NUMERICAL INSTABILITY DETECTED IN FITTING.
+MAYDAY.  ABORT.  ABORT.  ABORT.  INSTABILITY ENCOUNTERED.
+
+The isotherm did not meet NITPIC's high- or medium-C criteria.
+
+Integration took a total of 5.0 s.
+

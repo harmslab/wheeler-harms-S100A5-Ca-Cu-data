@@ -1,0 +1,560 @@
+XL-I Version 5.8 Cell 3 Channel A Scan Log
+Log & data file folder: C:\xlidata\042314\142830
+Log file name: cell3chA.log
+Log created: 04/23/14 @ 14:31:49
+Scan settings file name: C:\\NONAME99.SCN
+Alignment angle:  0.00
+Points per fringe: 22.75
+Laser delay:   1.90
+Laser duration:  0.60
+Laser gain: 0
+Laser offset: 0
+Blank subtraction: yes
+Blank points/fringe: 22.00
+Blank delay:  41.00
+Blank duration:  0.40
+Blank gain: 0
+Blank offset: 0
+
+Scan(s) started 04/23/14 @ 14:31:49, delay: 00:00:00, interval: 00:03:00
+speed: 55000, time: 0000187, temp: 20.0, w2t: 2.64E+09
+
+Scan sequence 00001 started 04/23/14 @ 14:31:51, file name: 00001.ip3
+speed: 55000, time: 0000189, temp: 20.0, w2t: 2.74E+09
+
+Scan sequence 00002 started 04/23/14 @ 14:32:11, file name: 00002.ip3
+speed: 55000, time: 0000207, temp: 20.1, w2t: 3.40E+09
+
+Scan sequence 00003 started 04/23/14 @ 14:35:09, file name: 00003.ip3
+speed: 55000, time: 0000382, temp: 20.1, w2t: 9.24E+09
+
+Scan sequence 00004 started 04/23/14 @ 14:38:08, file name: 00004.ip3
+speed: 55000, time: 0000559, temp: 20.2, w2t: 1.52E+10
+
+Scan sequence 00005 started 04/23/14 @ 14:41:10, file name: 00005.ip3
+speed: 55000, time: 0000739, temp: 20.3, w2t: 2.12E+10
+
+Scan sequence 00006 started 04/23/14 @ 14:44:10, file name: 00006.ip3
+speed: 55000, time: 0000917, temp: 20.3, w2t: 2.73E+10
+
+Scan sequence 00007 started 04/23/14 @ 14:47:09, file name: 00007.ip3
+speed: 55000, time: 0001093, temp: 20.3, w2t: 3.32E+10
+
+Scan sequence 00008 started 04/23/14 @ 14:50:09, file name: 00008.ip3
+speed: 55000, time: 0001271, temp: 20.3, w2t: 3.92E+10
+
+Scan sequence 00009 started 04/23/14 @ 14:53:10, file name: 00009.ip3
+speed: 55000, time: 0001449, temp: 20.3, w2t: 4.52E+10
+
+Scan sequence 00010 started 04/23/14 @ 14:56:10, file name: 00010.ip3
+speed: 55000, time: 0001625, temp: 20.3, w2t: 5.11E+10
+
+Scan sequence 00011 started 04/23/14 @ 14:59:12, file name: 00011.ip3
+speed: 55000, time: 0001806, temp: 20.3, w2t: 5.72E+10
+
+Scan sequence 00012 started 04/23/14 @ 15:02:12, file name: 00012.ip3
+speed: 55000, time: 0001983, temp: 20.3, w2t: 6.31E+10
+
+Scan sequence 00013 started 04/23/14 @ 15:05:14, file name: 00013.ip3
+speed: 55000, time: 0002160, temp: 20.2, w2t: 6.92E+10
+
+Scan sequence 00014 started 04/23/14 @ 15:08:13, file name: 00014.ip3
+speed: 55000, time: 0002339, temp: 20.2, w2t: 7.51E+10
+
+Scan sequence 00015 started 04/23/14 @ 15:11:15, file name: 00015.ip3
+speed: 55000, time: 0002516, temp: 20.2, w2t: 8.12E+10
+
+Scan sequence 00016 started 04/23/14 @ 15:14:15, file name: 00016.ip3
+speed: 55000, time: 0002694, temp: 20.2, w2t: 8.71E+10
+
+Scan sequence 00017 started 04/23/14 @ 15:17:15, file name: 00017.ip3
+speed: 55000, time: 0002871, temp: 20.2, w2t: 9.31E+10
+
+Scan sequence 00018 started 04/23/14 @ 15:20:14, file name: 00018.ip3
+speed: 55000, time: 0003048, temp: 20.2, w2t: 9.90E+10
+
+Scan sequence 00019 started 04/23/14 @ 15:23:17, file name: 00019.ip3
+speed: 55000, time: 0003228, temp: 20.1, w2t: 1.05E+11
+
+Scan sequence 00020 started 04/23/14 @ 15:26:16, file name: 00020.ip3
+speed: 55000, time: 0003406, temp: 20.1, w2t: 1.11E+11
+
+Scan sequence 00021 started 04/23/14 @ 15:29:18, file name: 00021.ip3
+speed: 55000, time: 0003583, temp: 20.1, w2t: 1.17E+11
+
+Scan sequence 00022 started 04/23/14 @ 15:32:18, file name: 00022.ip3
+speed: 55000, time: 0003762, temp: 20.1, w2t: 1.23E+11
+
+Scan sequence 00023 started 04/23/14 @ 15:35:19, file name: 00023.ip3
+speed: 55000, time: 0003939, temp: 20.1, w2t: 1.29E+11
+
+Scan sequence 00024 started 04/23/14 @ 15:38:18, file name: 00024.ip3
+speed: 55000, time: 0004116, temp: 20.1, w2t: 1.35E+11
+
+Scan sequence 00025 started 04/23/14 @ 15:41:19, file name: 00025.ip3
+speed: 55000, time: 0004293, temp: 20.0, w2t: 1.41E+11
+
+Scan sequence 00026 started 04/23/14 @ 15:44:18, file name: 00026.ip3
+speed: 55000, time: 0004470, temp: 20.0, w2t: 1.47E+11
+
+Scan sequence 00027 started 04/23/14 @ 15:47:21, file name: 00027.ip3
+speed: 55000, time: 0004652, temp: 20.0, w2t: 1.53E+11
+
+Scan sequence 00028 started 04/23/14 @ 15:50:21, file name: 00028.ip3
+speed: 55000, time: 0004828, temp: 20.0, w2t: 1.59E+11
+
+Scan sequence 00029 started 04/23/14 @ 15:53:22, file name: 00029.ip3
+speed: 55000, time: 0005006, temp: 20.0, w2t: 1.65E+11
+
+Scan sequence 00030 started 04/23/14 @ 15:56:21, file name: 00030.ip3
+speed: 55000, time: 0005183, temp: 20.0, w2t: 1.71E+11
+
+Scan sequence 00031 started 04/23/14 @ 15:59:21, file name: 00031.ip3
+speed: 55000, time: 0005361, temp: 20.0, w2t: 1.77E+11
+
+Scan sequence 00032 started 04/23/14 @ 16:02:22, file name: 00032.ip3
+speed: 55000, time: 0005537, temp: 20.0, w2t: 1.83E+11
+
+Scan sequence 00033 started 04/23/14 @ 16:05:24, file name: 00033.ip3
+speed: 55000, time: 0005718, temp: 20.0, w2t: 1.89E+11
+
+Scan sequence 00034 started 04/23/14 @ 16:08:23, file name: 00034.ip3
+speed: 55000, time: 0005895, temp: 20.0, w2t: 1.95E+11
+
+Scan sequence 00035 started 04/23/14 @ 16:11:23, file name: 00035.ip3
+speed: 55000, time: 0006072, temp: 20.0, w2t: 2.01E+11
+
+Scan sequence 00036 started 04/23/14 @ 16:14:24, file name: 00036.ip3
+speed: 55000, time: 0006250, temp: 20.0, w2t: 2.07E+11
+
+Scan sequence 00037 started 04/23/14 @ 16:17:24, file name: 00037.ip3
+speed: 55000, time: 0006428, temp: 20.0, w2t: 2.13E+11
+
+Scan sequence 00038 started 04/23/14 @ 16:20:25, file name: 00038.ip3
+speed: 55000, time: 0006605, temp: 20.0, w2t: 2.19E+11
+
+Scan sequence 00039 started 04/23/14 @ 16:23:26, file name: 00039.ip3
+speed: 55000, time: 0006785, temp: 20.0, w2t: 2.25E+11
+
+Scan sequence 00040 started 04/23/14 @ 16:26:26, file name: 00040.ip3
+speed: 55000, time: 0006962, temp: 20.0, w2t: 2.31E+11
+
+Scan sequence 00041 started 04/23/14 @ 16:29:26, file name: 00041.ip3
+speed: 55000, time: 0007139, temp: 20.0, w2t: 2.37E+11
+
+Scan sequence 00042 started 04/23/14 @ 16:32:27, file name: 00042.ip3
+speed: 55000, time: 0007318, temp: 20.0, w2t: 2.43E+11
+
+Scan sequence 00043 started 04/23/14 @ 16:35:26, file name: 00043.ip3
+speed: 55000, time: 0007494, temp: 20.0, w2t: 2.49E+11
+
+Scan sequence 00044 started 04/23/14 @ 16:38:29, file name: 00044.ip3
+speed: 55000, time: 0007673, temp: 20.0, w2t: 2.55E+11
+
+Scan sequence 00045 started 04/23/14 @ 16:41:28, file name: 00045.ip3
+speed: 55000, time: 0007850, temp: 20.0, w2t: 2.61E+11
+
+Scan sequence 00046 started 04/23/14 @ 16:44:30, file name: 00046.ip3
+speed: 55000, time: 0008028, temp: 20.0, w2t: 2.67E+11
+
+Scan sequence 00047 started 04/23/14 @ 16:47:30, file name: 00047.ip3
+speed: 55000, time: 0008208, temp: 20.0, w2t: 2.73E+11
+
+Scan sequence 00048 started 04/23/14 @ 16:50:31, file name: 00048.ip3
+speed: 55000, time: 0008386, temp: 20.0, w2t: 2.79E+11
+
+Scan sequence 00049 started 04/23/14 @ 16:53:32, file name: 00049.ip3
+speed: 55000, time: 0008563, temp: 20.0, w2t: 2.85E+11
+
+Scan sequence 00050 started 04/23/14 @ 16:56:31, file name: 00050.ip3
+speed: 55000, time: 0008741, temp: 20.0, w2t: 2.91E+11
+
+Scan sequence 00051 started 04/23/14 @ 16:59:31, file name: 00051.ip3
+speed: 55000, time: 0008917, temp: 20.0, w2t: 2.97E+11
+
+Scan sequence 00052 started 04/23/14 @ 17:02:31, file name: 00052.ip3
+speed: 55000, time: 0009095, temp: 20.0, w2t: 3.03E+11
+
+Scan sequence 00053 started 04/23/14 @ 17:05:33, file name: 00053.ip3
+speed: 55000, time: 0009275, temp: 20.0, w2t: 3.09E+11
+
+Scan sequence 00054 started 04/23/14 @ 17:08:34, file name: 00054.ip3
+speed: 55000, time: 0009453, temp: 20.0, w2t: 3.15E+11
+
+Scan sequence 00055 started 04/23/14 @ 17:11:35, file name: 00055.ip3
+speed: 55000, time: 0009630, temp: 20.0, w2t: 3.21E+11
+
+Scan sequence 00056 started 04/23/14 @ 17:14:34, file name: 00056.ip3
+speed: 55000, time: 0009808, temp: 20.0, w2t: 3.27E+11
+
+Scan sequence 00057 started 04/23/14 @ 17:17:35, file name: 00057.ip3
+speed: 55000, time: 0009984, temp: 20.0, w2t: 3.33E+11
+
+Scan sequence 00058 started 04/23/14 @ 17:20:36, file name: 00058.ip3
+speed: 55000, time: 0010163, temp: 20.0, w2t: 3.39E+11
+
+Scan sequence 00059 started 04/23/14 @ 17:23:37, file name: 00059.ip3
+speed: 55000, time: 0010342, temp: 20.0, w2t: 3.45E+11
+
+Scan sequence 00060 started 04/23/14 @ 17:26:37, file name: 00060.ip3
+speed: 55000, time: 0010520, temp: 20.0, w2t: 3.51E+11
+
+Scan sequence 00061 started 04/23/14 @ 17:29:38, file name: 00061.ip3
+speed: 55000, time: 0010697, temp: 20.0, w2t: 3.57E+11
+
+Scan sequence 00062 started 04/23/14 @ 17:32:37, file name: 00062.ip3
+speed: 55000, time: 0010875, temp: 20.0, w2t: 3.63E+11
+
+Scan sequence 00063 started 04/23/14 @ 17:35:36, file name: 00063.ip3
+speed: 55000, time: 0011051, temp: 20.0, w2t: 3.68E+11
+
+Scan sequence 00064 started 04/23/14 @ 17:38:37, file name: 00064.ip3
+speed: 55000, time: 0011229, temp: 20.0, w2t: 3.74E+11
+
+Scan sequence 00065 started 04/23/14 @ 17:41:40, file name: 00065.ip3
+speed: 55000, time: 0011409, temp: 20.0, w2t: 3.80E+11
+
+Scan sequence 00066 started 04/23/14 @ 17:44:40, file name: 00066.ip3
+speed: 55000, time: 0011586, temp: 20.0, w2t: 3.86E+11
+
+Scan sequence 00067 started 04/23/14 @ 17:47:41, file name: 00067.ip3
+speed: 55000, time: 0011764, temp: 20.0, w2t: 3.92E+11
+
+Scan sequence 00068 started 04/23/14 @ 17:50:39, file name: 00068.ip3
+speed: 55000, time: 0011941, temp: 20.0, w2t: 3.98E+11
+
+Scan sequence 00069 started 04/23/14 @ 17:53:39, file name: 00069.ip3
+speed: 55000, time: 0012118, temp: 20.0, w2t: 4.04E+11
+
+Scan sequence 00070 started 04/23/14 @ 17:56:41, file name: 00070.ip3
+speed: 55000, time: 0012296, temp: 20.0, w2t: 4.10E+11
+
+Scan sequence 00071 started 04/23/14 @ 17:59:43, file name: 00071.ip3
+speed: 55000, time: 0012476, temp: 20.0, w2t: 4.16E+11
+
+Scan sequence 00072 started 04/23/14 @ 18:02:43, file name: 00072.ip3
+speed: 55000, time: 0012654, temp: 20.0, w2t: 4.22E+11
+
+Scan sequence 00073 started 04/23/14 @ 18:05:43, file name: 00073.ip3
+speed: 55000, time: 0012830, temp: 20.0, w2t: 4.28E+11
+
+Scan sequence 00074 started 04/23/14 @ 18:08:44, file name: 00074.ip3
+speed: 55000, time: 0013008, temp: 20.0, w2t: 4.34E+11
+
+Scan sequence 00075 started 04/23/14 @ 18:11:42, file name: 00075.ip3
+speed: 55000, time: 0013185, temp: 20.0, w2t: 4.40E+11
+
+Scan sequence 00076 started 04/23/14 @ 18:14:44, file name: 00076.ip3
+speed: 55000, time: 0013363, temp: 20.0, w2t: 4.46E+11
+
+Scan sequence 00077 started 04/23/14 @ 18:17:46, file name: 00077.ip3
+speed: 55000, time: 0013544, temp: 20.0, w2t: 4.52E+11
+
+Scan sequence 00078 started 04/23/14 @ 18:20:47, file name: 00078.ip3
+speed: 55000, time: 0013720, temp: 20.0, w2t: 4.58E+11
+
+Scan sequence 00079 started 04/23/14 @ 18:23:47, file name: 00079.ip3
+speed: 55000, time: 0013898, temp: 20.0, w2t: 4.64E+11
+
+Scan sequence 00080 started 04/23/14 @ 18:26:45, file name: 00080.ip3
+speed: 55000, time: 0014075, temp: 20.0, w2t: 4.70E+11
+
+Scan sequence 00081 started 04/23/14 @ 18:29:45, file name: 00081.ip3
+speed: 55000, time: 0014252, temp: 20.0, w2t: 4.76E+11
+
+Scan sequence 00082 started 04/23/14 @ 18:32:46, file name: 00082.ip3
+speed: 55000, time: 0014430, temp: 20.0, w2t: 4.82E+11
+
+Scan sequence 00083 started 04/23/14 @ 18:35:48, file name: 00083.ip3
+speed: 55000, time: 0014609, temp: 20.0, w2t: 4.88E+11
+
+Scan sequence 00084 started 04/23/14 @ 18:38:49, file name: 00084.ip3
+speed: 55000, time: 0014787, temp: 20.0, w2t: 4.94E+11
+
+Scan sequence 00085 started 04/23/14 @ 18:41:48, file name: 00085.ip3
+speed: 55000, time: 0014964, temp: 20.0, w2t: 5.00E+11
+
+Scan sequence 00086 started 04/23/14 @ 18:44:48, file name: 00086.ip3
+speed: 55000, time: 0015141, temp: 20.0, w2t: 5.06E+11
+
+Scan sequence 00087 started 04/23/14 @ 18:47:48, file name: 00087.ip3
+speed: 55000, time: 0015319, temp: 20.0, w2t: 5.12E+11
+
+Scan sequence 00088 started 04/23/14 @ 18:50:49, file name: 00088.ip3
+speed: 55000, time: 0015496, temp: 20.0, w2t: 5.18E+11
+
+Scan sequence 00089 started 04/23/14 @ 18:53:51, file name: 00089.ip3
+speed: 55000, time: 0015676, temp: 20.0, w2t: 5.24E+11
+
+Scan sequence 00090 started 04/23/14 @ 18:56:51, file name: 00090.ip3
+speed: 55000, time: 0015853, temp: 20.0, w2t: 5.30E+11
+
+Scan sequence 00091 started 04/23/14 @ 18:59:52, file name: 00091.ip3
+speed: 55000, time: 0016031, temp: 20.0, w2t: 5.36E+11
+
+Scan sequence 00092 started 04/23/14 @ 19:02:51, file name: 00092.ip3
+speed: 55000, time: 0016208, temp: 20.0, w2t: 5.42E+11
+
+Scan sequence 00093 started 04/23/14 @ 19:05:52, file name: 00093.ip3
+speed: 55000, time: 0016386, temp: 20.0, w2t: 5.48E+11
+
+Scan sequence 00094 started 04/23/14 @ 19:08:52, file name: 00094.ip3
+speed: 55000, time: 0016563, temp: 20.0, w2t: 5.54E+11
+
+Scan sequence 00095 started 04/23/14 @ 19:11:54, file name: 00095.ip3
+speed: 55000, time: 0016743, temp: 20.0, w2t: 5.60E+11
+
+Scan sequence 00096 started 04/23/14 @ 19:14:54, file name: 00096.ip3
+speed: 55000, time: 0016920, temp: 20.0, w2t: 5.66E+11
+
+Scan sequence 00097 started 04/23/14 @ 19:17:55, file name: 00097.ip3
+speed: 55000, time: 0017098, temp: 20.0, w2t: 5.72E+11
+
+Scan sequence 00098 started 04/23/14 @ 19:20:54, file name: 00098.ip3
+speed: 55000, time: 0017275, temp: 20.0, w2t: 5.78E+11
+
+Scan sequence 00099 started 04/23/14 @ 19:23:56, file name: 00099.ip3
+speed: 55000, time: 0017453, temp: 20.0, w2t: 5.84E+11
+
+Scan sequence 00100 started 04/23/14 @ 19:26:56, file name: 00100.ip3
+speed: 55000, time: 0017630, temp: 20.0, w2t: 5.90E+11
+
+Scan sequence 00101 started 04/23/14 @ 19:29:57, file name: 00101.ip3
+speed: 55000, time: 0017810, temp: 20.0, w2t: 5.96E+11
+
+Scan sequence 00102 started 04/23/14 @ 19:32:58, file name: 00102.ip3
+speed: 55000, time: 0017988, temp: 20.0, w2t: 6.02E+11
+
+Scan sequence 00103 started 04/23/14 @ 19:35:58, file name: 00103.ip3
+speed: 55000, time: 0018165, temp: 20.0, w2t: 6.08E+11
+
+Scan sequence 00104 started 04/23/14 @ 19:38:57, file name: 00104.ip3
+speed: 55000, time: 0018342, temp: 20.0, w2t: 6.14E+11
+
+Scan sequence 00105 started 04/23/14 @ 19:41:58, file name: 00105.ip3
+speed: 55000, time: 0018519, temp: 20.0, w2t: 6.20E+11
+
+Scan sequence 00106 started 04/23/14 @ 19:44:58, file name: 00106.ip3
+speed: 55000, time: 0018697, temp: 20.0, w2t: 6.26E+11
+
+Scan sequence 00107 started 04/23/14 @ 19:48:00, file name: 00107.ip3
+speed: 55000, time: 0018877, temp: 20.0, w2t: 6.32E+11
+
+Scan sequence 00108 started 04/23/14 @ 19:51:00, file name: 00108.ip3
+speed: 55000, time: 0019054, temp: 20.0, w2t: 6.38E+11
+
+Scan sequence 00109 started 04/23/14 @ 19:54:00, file name: 00109.ip3
+speed: 55000, time: 0019231, temp: 20.0, w2t: 6.44E+11
+
+Scan sequence 00110 started 04/23/14 @ 19:57:00, file name: 00110.ip3
+speed: 55000, time: 0019409, temp: 20.0, w2t: 6.50E+11
+
+Scan sequence 00111 started 04/23/14 @ 20:00:03, file name: 00111.ip3
+speed: 55000, time: 0019587, temp: 20.0, w2t: 6.56E+11
+
+Scan sequence 00112 started 04/23/14 @ 20:03:01, file name: 00112.ip3
+speed: 55000, time: 0019763, temp: 20.0, w2t: 6.62E+11
+
+Scan sequence 00113 started 04/23/14 @ 20:06:04, file name: 00113.ip3
+speed: 55000, time: 0019944, temp: 20.0, w2t: 6.68E+11
+
+Scan sequence 00114 started 04/23/14 @ 20:09:04, file name: 00114.ip3
+speed: 55000, time: 0020121, temp: 20.0, w2t: 6.74E+11
+
+Scan sequence 00115 started 04/23/14 @ 20:12:04, file name: 00115.ip3
+speed: 55000, time: 0020299, temp: 20.0, w2t: 6.80E+11
+
+Scan sequence 00116 started 04/23/14 @ 20:15:05, file name: 00116.ip3
+speed: 55000, time: 0020476, temp: 20.0, w2t: 6.86E+11
+
+Scan sequence 00117 started 04/23/14 @ 20:18:04, file name: 00117.ip3
+speed: 55000, time: 0020654, temp: 20.0, w2t: 6.92E+11
+
+Scan sequence 00118 started 04/23/14 @ 20:21:05, file name: 00118.ip3
+speed: 55000, time: 0020830, temp: 20.0, w2t: 6.98E+11
+
+Scan sequence 00119 started 04/23/14 @ 20:24:06, file name: 00119.ip3
+speed: 55000, time: 0021010, temp: 20.0, w2t: 7.04E+11
+
+Scan sequence 00120 started 04/23/14 @ 20:27:06, file name: 00120.ip3
+speed: 55000, time: 0021187, temp: 20.0, w2t: 7.10E+11
+
+Scan sequence 00121 started 04/23/14 @ 20:30:07, file name: 00121.ip3
+speed: 55000, time: 0021366, temp: 20.0, w2t: 7.16E+11
+
+Scan sequence 00122 started 04/23/14 @ 20:33:06, file name: 00122.ip3
+speed: 55000, time: 0021542, temp: 20.0, w2t: 7.22E+11
+
+Scan sequence 00123 started 04/23/14 @ 20:36:08, file name: 00123.ip3
+speed: 55000, time: 0021720, temp: 20.0, w2t: 7.28E+11
+
+Scan sequence 00124 started 04/23/14 @ 20:39:07, file name: 00124.ip3
+speed: 55000, time: 0021897, temp: 20.0, w2t: 7.34E+11
+
+Scan sequence 00125 started 04/23/14 @ 20:42:09, file name: 00125.ip3
+speed: 55000, time: 0022077, temp: 20.0, w2t: 7.40E+11
+
+Scan sequence 00126 started 04/23/14 @ 20:45:09, file name: 00126.ip3
+speed: 55000, time: 0022254, temp: 20.0, w2t: 7.46E+11
+
+Scan sequence 00127 started 04/23/14 @ 20:48:11, file name: 00127.ip3
+speed: 55000, time: 0022432, temp: 20.0, w2t: 7.52E+11
+
+Scan sequence 00128 started 04/23/14 @ 20:51:10, file name: 00128.ip3
+speed: 55000, time: 0022610, temp: 20.0, w2t: 7.58E+11
+
+Scan sequence 00129 started 04/23/14 @ 20:54:11, file name: 00129.ip3
+speed: 55000, time: 0022786, temp: 20.0, w2t: 7.64E+11
+
+Scan sequence 00130 started 04/23/14 @ 20:57:11, file name: 00130.ip3
+speed: 55000, time: 0022965, temp: 20.0, w2t: 7.69E+11
+
+Scan sequence 00131 started 04/23/14 @ 21:00:13, file name: 00131.ip3
+speed: 55000, time: 0023145, temp: 20.0, w2t: 7.76E+11
+
+Scan sequence 00132 started 04/23/14 @ 21:03:14, file name: 00132.ip3
+speed: 55000, time: 0023322, temp: 20.0, w2t: 7.82E+11
+
+Scan sequence 00133 started 04/23/14 @ 21:06:14, file name: 00133.ip3
+speed: 55000, time: 0023499, temp: 20.0, w2t: 7.88E+11
+
+Scan sequence 00134 started 04/23/14 @ 21:09:14, file name: 00134.ip3
+speed: 55000, time: 0023676, temp: 20.0, w2t: 7.93E+11
+
+Scan sequence 00135 started 04/23/14 @ 21:12:14, file name: 00135.ip3
+speed: 55000, time: 0023853, temp: 20.0, w2t: 7.99E+11
+
+Scan sequence 00136 started 04/23/14 @ 21:15:13, file name: 00136.ip3
+speed: 55000, time: 0024030, temp: 20.0, w2t: 8.05E+11
+
+Scan sequence 00137 started 04/23/14 @ 21:18:16, file name: 00137.ip3
+speed: 55000, time: 0024211, temp: 20.0, w2t: 8.11E+11
+
+Scan sequence 00138 started 04/23/14 @ 21:21:16, file name: 00138.ip3
+speed: 55000, time: 0024389, temp: 20.0, w2t: 8.17E+11
+
+Scan sequence 00139 started 04/23/14 @ 21:24:17, file name: 00139.ip3
+speed: 55000, time: 0024565, temp: 20.0, w2t: 8.23E+11
+
+Scan sequence 00140 started 04/23/14 @ 21:27:17, file name: 00140.ip3
+speed: 55000, time: 0024744, temp: 20.0, w2t: 8.29E+11
+
+Scan sequence 00141 started 04/23/14 @ 21:30:17, file name: 00141.ip3
+speed: 55000, time: 0024920, temp: 20.0, w2t: 8.35E+11
+
+Scan sequence 00142 started 04/23/14 @ 21:33:16, file name: 00142.ip3
+speed: 55000, time: 0025097, temp: 20.0, w2t: 8.41E+11
+
+Scan sequence 00143 started 04/23/14 @ 21:36:19, file name: 00143.ip3
+speed: 55000, time: 0025278, temp: 20.0, w2t: 8.47E+11
+
+Scan sequence 00144 started 04/23/14 @ 21:39:19, file name: 00144.ip3
+speed: 55000, time: 0025456, temp: 20.0, w2t: 8.53E+11
+
+Scan sequence 00145 started 04/23/14 @ 21:42:18, file name: 00145.ip3
+speed: 55000, time: 0025633, temp: 20.0, w2t: 8.59E+11
+
+Scan sequence 00146 started 04/23/14 @ 21:45:18, file name: 00146.ip3
+speed: 55000, time: 0025810, temp: 20.0, w2t: 8.65E+11
+
+Scan sequence 00147 started 04/23/14 @ 21:48:19, file name: 00147.ip3
+speed: 55000, time: 0025988, temp: 20.0, w2t: 8.71E+11
+
+Scan sequence 00148 started 04/23/14 @ 21:51:19, file name: 00148.ip3
+speed: 55000, time: 0026165, temp: 20.0, w2t: 8.77E+11
+
+Scan sequence 00149 started 04/23/14 @ 21:54:21, file name: 00149.ip3
+speed: 55000, time: 0026345, temp: 20.0, w2t: 8.83E+11
+
+Scan sequence 00150 started 04/23/14 @ 21:57:23, file name: 00150.ip3
+speed: 55000, time: 0026523, temp: 20.0, w2t: 8.89E+11
+
+Scan sequence 00151 started 04/23/14 @ 22:00:22, file name: 00151.ip3
+speed: 55000, time: 0026700, temp: 20.0, w2t: 8.95E+11
+
+Scan sequence 00152 started 04/23/14 @ 22:03:22, file name: 00152.ip3
+speed: 55000, time: 0026878, temp: 20.0, w2t: 9.01E+11
+
+Scan sequence 00153 started 04/23/14 @ 22:06:21, file name: 00153.ip3
+speed: 55000, time: 0027054, temp: 20.0, w2t: 9.07E+11
+
+Scan sequence 00154 started 04/23/14 @ 22:09:24, file name: 00154.ip3
+speed: 55000, time: 0027232, temp: 20.0, w2t: 9.13E+11
+
+Scan sequence 00155 started 04/23/14 @ 22:12:24, file name: 00155.ip3
+speed: 55000, time: 0027411, temp: 20.0, w2t: 9.19E+11
+
+Scan sequence 00156 started 04/23/14 @ 22:15:26, file name: 00156.ip3
+speed: 55000, time: 0027590, temp: 20.0, w2t: 9.25E+11
+
+Scan sequence 00157 started 04/23/14 @ 22:18:26, file name: 00157.ip3
+speed: 55000, time: 0027767, temp: 20.0, w2t: 9.31E+11
+
+Scan sequence 00158 started 04/23/14 @ 22:21:26, file name: 00158.ip3
+speed: 55000, time: 0027944, temp: 20.0, w2t: 9.37E+11
+
+Scan sequence 00159 started 04/23/14 @ 22:24:26, file name: 00159.ip3
+speed: 55000, time: 0028121, temp: 20.0, w2t: 9.43E+11
+
+Scan sequence 00160 started 04/23/14 @ 22:27:25, file name: 00160.ip3
+speed: 55000, time: 0028298, temp: 20.0, w2t: 9.49E+11
+
+Scan sequence 00161 started 04/23/14 @ 22:30:28, file name: 00161.ip3
+speed: 55000, time: 0028479, temp: 20.0, w2t: 9.55E+11
+
+Scan sequence 00162 started 04/23/14 @ 22:33:28, file name: 00162.ip3
+speed: 55000, time: 0028656, temp: 20.0, w2t: 9.61E+11
+
+Scan sequence 00163 started 04/23/14 @ 22:36:29, file name: 00163.ip3
+speed: 55000, time: 0028834, temp: 20.0, w2t: 9.67E+11
+
+Scan sequence 00164 started 04/23/14 @ 22:39:29, file name: 00164.ip3
+speed: 55000, time: 0029012, temp: 20.0, w2t: 9.73E+11
+
+Scan sequence 00165 started 04/23/14 @ 22:42:29, file name: 00165.ip3
+speed: 55000, time: 0029188, temp: 20.0, w2t: 9.79E+11
+
+Scan sequence 00166 started 04/23/14 @ 22:45:28, file name: 00166.ip3
+speed: 55000, time: 0029365, temp: 20.0, w2t: 9.85E+11
+
+Scan sequence 00167 started 04/23/14 @ 22:48:31, file name: 00167.ip3
+speed: 55000, time: 0029546, temp: 20.0, w2t: 9.91E+11
+
+Scan sequence 00168 started 04/23/14 @ 22:51:31, file name: 00168.ip3
+speed: 55000, time: 0029723, temp: 20.0, w2t: 9.97E+11
+
+Scan sequence 00169 started 04/23/14 @ 22:54:32, file name: 00169.ip3
+speed: 55000, time: 0029900, temp: 20.0, w2t: 1.00E+12
+
+Scan sequence 00170 started 04/23/14 @ 22:57:30, file name: 00170.ip3
+speed: 55000, time: 0030078, temp: 20.0, w2t: 1.01E+12
+
+Scan sequence 00171 started 04/23/14 @ 23:00:32, file name: 00171.ip3
+speed: 55000, time: 0030255, temp: 20.0, w2t: 1.01E+12
+
+Scan sequence 00172 started 04/23/14 @ 23:03:32, file name: 00172.ip3
+speed: 55000, time: 0030433, temp: 20.0, w2t: 1.02E+12
+
+Scan sequence 00173 started 04/23/14 @ 23:06:34, file name: 00173.ip3
+speed: 55000, time: 0030613, temp: 20.0, w2t: 1.03E+12
+
+Scan sequence 00174 started 04/23/14 @ 23:09:34, file name: 00174.ip3
+speed: 55000, time: 0030791, temp: 20.0, w2t: 1.03E+12
+
+Scan sequence 00175 started 04/23/14 @ 23:12:35, file name: 00175.ip3
+speed: 55000, time: 0030967, temp: 20.0, w2t: 1.04E+12
+
+Scan sequence 00176 started 04/23/14 @ 23:15:35, file name: 00176.ip3
+speed: 55000, time: 0031145, temp: 20.0, w2t: 1.04E+12
+
+Scan sequence 00177 started 04/23/14 @ 23:18:35, file name: 00177.ip3
+speed: 55000, time: 0031322, temp: 20.0, w2t: 1.05E+12
+
+Scan sequence 00178 started 04/23/14 @ 23:21:35, file name: 00178.ip3
+speed: 55000, time: 0031500, temp: 20.0, w2t: 1.06E+12
+
+Scan sequence 00179 started 04/23/14 @ 23:24:38, file name: 00179.ip3
+speed: 55000, time: 0031680, temp: 20.0, w2t: 1.06E+12
+
+Scan sequence 00180 started 04/23/14 @ 23:27:38, file name: 00180.ip3
+speed: 55000, time: 0031859, temp: 20.0, w2t: 1.07E+12

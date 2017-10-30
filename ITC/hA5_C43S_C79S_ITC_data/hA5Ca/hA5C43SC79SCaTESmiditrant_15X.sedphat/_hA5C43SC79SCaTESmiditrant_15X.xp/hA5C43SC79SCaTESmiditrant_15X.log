@@ -1,0 +1,63 @@
+NITPIC Version 1.2.2
+NITPICing commenced on 14 September, 2017, at 1619
+
+
+Loading C:/VPITC/Data/Luke/170907_ITC200/hA5CaTESmidTitrant/hA5C43SC79SCaTESmiditrant.itc...
+
+
+Data come from ITC200 or VP-ITC
+File loaded and successfully plotted.
+
+
+Titration was truncated.
+Scheduled: 22
+Actual completed: 20
+
+STARTING RUN #1.
+Vertical length of the array input to the 1st SVD is 179
+
+Number of flanking points adjusted to 2.
+
+Initial number of points considered in each injection is 42
+Fine-adjusting...
+Test fractions were [ 0.1   0.15  0.2   0.25  0.3 ]
+
+
+Winning fraction was: 25.0 percent
+
+Vertical length of winning array: 45
+
+Checking whether tail is inadvertantly included...
+Number of substoichiometric points set to 14
+
+No tail detected.
+No adjustment to no. considered points made.
+The best PQuadLevel was 1.
+The best transition constant was 1.0.
+The best anchor box sizes were: [133.0, 134.0, 134.0, 133.0, 134.0, 134.0, 133.0, 134.0, 134.0, 133.0, 134.0, 133.0, 134.0, 134.0, 133.0, 134.0, 133.0, 133.0, 134.0, 133.0]
+Using Straight for SVD baseline calculations.
+The best number of SVD components to include based on RMSD is 5.
+
+Isotherm is classified as EXOTHERMIC
+
+Saturated Plateau was: -0.476530980885.
+Stoichiometric Plateau was: -2.70835086068.
+Length of first third: 6.
+Length of last third: 7.
+transitionRegionLowWide was: -1.9719526404.
+transitionRegionHighWide was: -1.52684253381.
+The transition points are: 11 
+
+
+The isotherm appears to be of the medium-C type.
+Final normalized wrmsd was: 0.0166 kcal/mol
+
+
+FITTING RESULTS
+logKa = 6.435
+n = 1.441
+deltaH = -2.395 kcal/mol
+baseline = -266.177 cal/mol
+
+Integration took a total of 5.0 s.
+
