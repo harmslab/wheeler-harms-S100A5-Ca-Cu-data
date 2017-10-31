@@ -1,4 +1,4 @@
-# wheeler-harms-S100A5-Ca-Cu_data
+# wheeler-harms-S100A5-Ca-Cu-data
 
 This repo contains the data that support the conclusions in "Human S100A5 Binds Ca2+ and Cu2+ independently."
 
